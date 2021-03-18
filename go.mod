@@ -1,3 +1,3 @@
-module github.com/ozonru/dtrack-audit
+module github.com/agentram/dtrack-audit
 
 go 1.15

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ozonru/dtrack-audit/internal/dtrack"
+	"github.com/agentram/dtrack-audit/internal/dtrack"
 	"log"
 	"os"
 )
